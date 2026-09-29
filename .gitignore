@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+uploads/
+backend/uploads/
+chroma_db/
+backend/chroma_db/
+*.sqlite
+*.sqlite3
